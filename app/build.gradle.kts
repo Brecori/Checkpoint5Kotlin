@@ -3,10 +3,10 @@ plugins {
     alias(libs.plugins.jetbrainsKotlinAndroid)
 }
 android {
-    namespace = "carreiras.com.github.cryptomonitor"
+    namespace = "br.com.brecori.checkpoint5kotlin"
     compileSdk = 34
     defaultConfig {
-        applicationId = "carreiras.com.github.cryptomonitor"
+        applicationId = "br.com.brecori.checkpoint5kotlin"
         minSdk = 27
         targetSdk = 34
         versionCode = 1
